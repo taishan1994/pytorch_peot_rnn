@@ -1,0 +1,2 @@
+# pytorch_peot_rnn
+基于pytorch_rnn的古诗词生成
