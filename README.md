@@ -28,8 +28,8 @@ if config.do_predict:
 
 # 参考
 > https://github.com/chenyuntc/pytorch-book<br>
-其中第九章的古诗词生成，修改了以下地方：
-1、重构了代码架构；
-2、增加了数据集生成的过程；
-3、RNN网络改为batch_first；
-4、计算损失时不计算padding部分；
+其中第九章的古诗词生成，修改了以下地方：<br>
+1、重构了代码架构；<br>
+2、增加了数据集生成的过程；<br>
+3、RNN网络改为batch_first；<br>
+4、计算损失时不计算padding部分；<br>
