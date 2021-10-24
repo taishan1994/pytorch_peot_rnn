@@ -4,7 +4,7 @@
 # 说明
 config.py里面含有训练、测试、预测的参数，更改后运行：
 ```python
-main.py
+python main.py
 ```
 
 # 预测结果
